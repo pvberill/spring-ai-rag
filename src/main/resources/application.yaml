@@ -12,4 +12,4 @@ sfg:
   aiapp:
     vectorStorePath: c:\src\springai\spring-ai-rag\db\vectorstore.json
     documentsToLoad:
-      - classpath:/movies500.csv
+      - classpath:/movies500Trimmed.csv
